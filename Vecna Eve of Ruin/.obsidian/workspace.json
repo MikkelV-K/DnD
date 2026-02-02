@@ -4,169 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "344f45b6b71abdc5",
+        "id": "955e05819e50e93d",
         "type": "tabs",
         "children": [
           {
-            "id": "dd79c03c6c64ae28",
+            "id": "6505b2dba89386ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Save the Kidnapped Nobles.md",
+                "file": "Bestiary/PCs/Feta Ostervik.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Save the Kidnapped Nobles"
-            }
-          },
-          {
-            "id": "6a962c52122ee72c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Neverdeath Graveyard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Neverdeath Graveyard"
-            }
-          },
-          {
-            "id": "e546518f60307eb2",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": [
-                [
-                  {
-                    "name": "Aboleth",
-                    "source": "5e SRD",
-                    "size": "Large",
-                    "type": "aberration",
-                    "subtype": "",
-                    "alignment": "lawful evil",
-                    "ac": 17,
-                    "hp": 135,
-                    "hit_dice": "18d10 + 36",
-                    "speed": "10 ft., swim 40 ft.",
-                    "stats": [
-                      21,
-                      9,
-                      15,
-                      18,
-                      15,
-                      18
-                    ],
-                    "saves": [
-                      {
-                        "constitution": 6
-                      },
-                      {
-                        "intelligence": 8
-                      },
-                      {
-                        "wisdom": 6
-                      }
-                    ],
-                    "skillsaves": [
-                      {
-                        "history": 12
-                      },
-                      {
-                        "perception": 10
-                      }
-                    ],
-                    "damage_vulnerabilities": "",
-                    "damage_resistances": "",
-                    "damage_immunities": "",
-                    "condition_immunities": "",
-                    "senses": "darkvision 120 ft., passive Perception 20",
-                    "languages": "Deep Speech, telepathy 120 ft.",
-                    "cr": "10",
-                    "bestiary": true,
-                    "traits": [
-                      {
-                        "name": "Amphibious",
-                        "desc": "The aboleth can breathe air and water.",
-                        "attack_bonus": 0
-                      },
-                      {
-                        "name": "Mucous Cloud",
-                        "desc": "While underwater, the aboleth is surrounded by transformative mucus. A creature that touches the aboleth or that hits it with a melee attack while within 5 ft. of it must make a DC 14 Constitution saving throw. On a failure, the creature is diseased for 1d4 hours. The diseased creature can breathe only underwater.",
-                        "attack_bonus": 0
-                      },
-                      {
-                        "name": "Probing Telepathy",
-                        "desc": "If a creature communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires if the aboleth can see the creature.",
-                        "attack_bonus": 0
-                      }
-                    ],
-                    "actions": [
-                      {
-                        "name": "Multiattack",
-                        "desc": "The aboleth makes three tentacle attacks.",
-                        "attack_bonus": 0
-                      },
-                      {
-                        "name": "Tentacle",
-                        "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any magic that cures disease. After 1 minute, the diseased creature's skin becomes translucent and slimy, the creature can't regain hit points unless it is underwater, and the disease can be removed only by heal or another disease-curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed.",
-                        "attack_bonus": 9,
-                        "damage_dice": "2d6",
-                        "damage_bonus": 5
-                      },
-                      {
-                        "name": "Tail",
-                        "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft. one target. Hit: 15 (3d6 + 5) bludgeoning damage.",
-                        "attack_bonus": 9,
-                        "damage_dice": "3d6",
-                        "damage_bonus": 5
-                      },
-                      {
-                        "name": "Enslave (3/day)",
-                        "desc": "The aboleth targets one creature it can see within 30 ft. of it. The target must succeed on a DC 14 Wisdom saving throw or be magically charmed by the aboleth until the aboleth dies or until it is on a different plane of existence from the target. The charmed target is under the aboleth's control and can't take reactions, and the aboleth and the target can communicate telepathically with each other over any distance.\nWhenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from the aboleth.",
-                        "attack_bonus": 0
-                      }
-                    ],
-                    "legendary_actions": [
-                      {
-                        "name": "Detect",
-                        "desc": "The aboleth makes a Wisdom (Perception) check.",
-                        "attack_bonus": 0
-                      },
-                      {
-                        "name": "Tail Swipe",
-                        "desc": "The aboleth makes one tail attack.",
-                        "attack_bonus": 0
-                      },
-                      {
-                        "name": "Psychic Drain (Costs 2 Actions)",
-                        "desc": "One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.",
-                        "attack_bonus": 0
-                      }
-                    ]
-                  },
-                  1
-                ],
-                [
-                  {
-                    "name": "Test name",
-                    "type": "Player",
-                    "source": "Homebrew",
-                    "layout": "Basic 5e Layout"
-                  },
-                  1
-                ]
-              ],
-              "icon": "intiative-tracker-encounter-builder",
-              "title": "Encounter Builder"
+              "title": "Feta Ostervik"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,7 +87,6 @@
       {
         "id": "1c81b8efe3e6e60f",
         "type": "tabs",
-        "dimension": 72.54901960784314,
         "children": [
           {
             "id": "817ad550dfe42b75",
@@ -302,17 +156,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Neverdeath Graveyard.md",
+                "file": "Bestiary/PCs/Feta Ostervik.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Neverdeath Graveyard"
+              "title": "Outline of Feta Ostervik"
             }
           },
           {
-            "id": "2d2ba4a756232419",
+            "id": "99593edf5b8c0810",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "eb64ddb0e558fe39",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -322,15 +186,14 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
-        "id": "68867a5f23d58701",
+        "id": "6151fb934c812c49",
         "type": "tabs",
-        "dimension": 27.450980392156865,
         "children": [
           {
-            "id": "1b1c3648265981e8",
+            "id": "d8074e7a0e60267a",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-creature-view",
@@ -343,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 556.5
+    "width": 553.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -358,21 +221,31 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "e546518f60307eb2",
+  "active": "6505b2dba89386ef",
   "lastOpenFiles": [
-    "Bestiary/Monsters/Water Weird.md",
+    "Bestiary/PCs/Trapic.md",
     "Bestiary/PCs/Feta Ostervik.md",
+    "Bestiary/PCs/Trickery.md",
+    "Sessions/Encounters/1770061011282 - Encounter.md",
+    "Sessions/Encounters/1770060060874 - Encounter.md",
+    "Untitled.base",
+    "Untitled.md",
+    "Quests/Save the Kidnapped Nobles.md",
+    "Sessions/Encounters/1770060042834 - Encounter.md",
+    "Locations/Evernight.md",
+    "Locations/Faerûn.md",
     "Locations/Neverdeath Graveyard.md",
+    "Locations/Neverwinter.md",
+    "Locations/The Shadowfell.md",
+    "Locations/Toril.md",
+    "Dungeons",
+    "Bestiary/Monsters/Water Weird.md",
     "Bestiary/Monsters",
     "Assets/Monsters/Nothic_image.png",
     "Assets/Monsters",
     "Assets/Magic Items",
     "Magic Items",
-    "Locations/Faerûn.md",
-    "Locations/Evernight.md",
-    "Locations/Neverwinter.md",
     "Quests/Escape Evernight.md",
-    "Quests/Save the Kidnapped Nobles.md",
     "NPCs/Umberto Noblin.md",
     "NPCs/Sarcelle Malinosh.md",
     "NPCs/Jerot Galgin.md",
@@ -390,20 +263,10 @@
     "Assets/NPCs/Untitled.jpg",
     "Assets/NPCs/Sarcelle_Malinosh.webp",
     "Assets/NPCs/Indrina_Lamsensettle.webp",
-    "Locations/The Shadowfell.md",
     "Assets/Locations/NeverwinterHarbor.webp",
     "Assets/Locations/NeverwinterHarbor 1.webp",
-    "Bestiary/PCs/Trapic.md",
-    "Bestiary/PCs/Trickery.md",
     "Bestiary/Wight.md",
-    "Bestiary/PCs",
     "Goblin.md",
-    "Encounters",
-    "Chapters/Ch. 10.md",
-    "Chapters/Ch. 9.md",
-    "Chapters/Ch. 8.md",
-    "Chapters/Ch. 7.md",
-    "Chapters/Ch. 6.md",
     "Assets/NPCs/Dagult_Neverember.webp",
     "Assets/Locations/Evernight_-_Calder_Moore.webp"
   ]
