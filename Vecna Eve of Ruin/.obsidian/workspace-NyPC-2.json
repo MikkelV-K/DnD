@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "dd15cad8517bf84d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b864ae93cbbb59f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "accffeb8a56171d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/The Cult of Vecna.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Cult of Vecna"
+            }
+          },
+          {
+            "id": "dae7d8988700a6e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/The Wizard Three.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Wizard Three"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8fed0f45139be850",
+    "type": "split",
+    "children": [
+      {
+        "id": "3978b53cae25592c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a98465cac658e218",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2d9ab73aac85822a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3e5db533d58e3327",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87bbad1dff2869da",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c81b8efe3e6e60f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "817ad550dfe42b75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Factions/The Wizard Three.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Wizard Three"
+            }
+          },
+          {
+            "id": "2c49b92098be3ab9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "e85944fe6341328d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c939220c9ac3fb7e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "54b295627faa093b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "0f08f1adecfc20fc",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "f39f8a3ac87d71a6",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ]
+      },
+      {
+        "id": "21431bbf7a233d2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e19454cd8974039",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
+    }
+  },
+  "active": "a98465cac658e218",
+  "lastOpenFiles": [
+    "Factions/Untitled.md",
+    "Factions/The Wizard Three.md",
+    "Factions/The Cult of Vecna.md",
+    "Locations/Evernight.md",
+    "NPCs/Shanzezim.md",
+    "Bestiary/Monsters/Water Weird.md",
+    "Bestiary/Monsters/Nothic.md",
+    "Bestiary/Monsters/Necromancer Wizard.md",
+    "Bestiary/Monsters/Barlgura.md",
+    "NPCs/Jerot Galgin.md",
+    "Bestiary/Monsters",
+    "Assets/Monsters/water-weird.jpg",
+    "Assets/Monsters/Necromancer Wizard.webp",
+    "Assets/Monsters/Barlgura.webp",
+    "Assets/Monsters/Nothic_image.png",
+    "Assets/Monsters",
+    "Magic Items/Stone of Good Luck.md",
+    "Assets/NPCs/Shanzezim.webp",
+    "Assets/Magic Items/gold_colored_flywheel.jpg",
+    "Assets/Magic Items",
+    "Magic Items",
+    "NPCs/Sarcelle Malinosh.md",
+    "Bestiary/PCs/Feta Ostervik.md",
+    "Assets/NPCs/Shanzezim.url",
+    "Locations/The Neverdeath Catacombs.md",
+    "Locations/Neverdeath Graveyard.md",
+    "Locations/Neverwinter.md",
+    "Assets/Locations/Waterclock_Guild's_Crypts-1.webp",
+    "Assets/Locations/Waterclock_Guild's_Crypts.webp",
+    "NPCs/Dagult Neverember.md",
+    "NPCs/Indrina Lamsensettle.md",
+    "NPCs/Umberto Noblin.md",
+    "NPCs/Vecna.md",
+    "A cult of Vecna.md",
+    "NPCs/Eldon Keyward.md",
+    "Quests",
+    "Factions",
+    "Encounters",
+    "Bestiary/PCs",
+    "Bestiary",
+    "Assets/Locations/NeverwinterHarbor.webp",
+    "Chapters/Ch. 10.md",
+    "Chapters/Ch. 9.md",
+    "Chapters/Ch. 8.md",
+    "Chapters/Ch. 7.md",
+    "Assets/NPCs/Dagult_Neverember.webp"
+  ]
+}

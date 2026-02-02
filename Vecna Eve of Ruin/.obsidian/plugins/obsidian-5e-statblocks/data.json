@@ -1,0 +1,415 @@
+{
+  "monsters": [
+    [
+      "Gravebound Sentinel",
+      {
+        "name": "Gravebound Sentinel",
+        "size": "Large",
+        "type": "undead",
+        "alignment": "lawful evil",
+        "ac": 17,
+        "hp": 85,
+        "hit_dice": "10d10+30",
+        "speed": "30 ft.",
+        "stats": [
+          18,
+          10,
+          16,
+          6,
+          12,
+          8
+        ],
+        "saving_throws": [
+          {
+            "wis": 4
+          }
+        ],
+        "damage_resistances": "necrotic",
+        "damage_immunities": "poison",
+        "condition_immunities": "poisoned",
+        "senses": "darkvision 60 ft.",
+        "languages": "Common",
+        "cr": 5,
+        "actions": [
+          {
+            "name": "Grave Halberd",
+            "desc": "Melee Weapon Attack. Heavy necrotic damage."
+          },
+          {
+            "name": "Binding Chains (Recharge 5–6)",
+            "desc": "Restrains enemies within 10 ft."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Test name",
+      {
+        "name": "Test name",
+        "type": "Player",
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Trickery",
+      {
+        "name": "Trickery",
+        "type": "Player",
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Trapic",
+      {
+        "name": "Trapic",
+        "type": "Player",
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Feta Ostervik",
+      {
+        "name": "Feta Ostervik",
+        "type": "Player",
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Marid",
+      {
+        "name": "Marid",
+        "size": "Large",
+        "type": "elemental",
+        "alignment": "chaotic neutral",
+        "ac": "17 (natural armor)",
+        "hp": 229,
+        "hit_dice": 229,
+        "speed": "30 ft., fly 60 ft., swin 90 ft.",
+        "stats": [
+          22,
+          12,
+          26,
+          18,
+          17,
+          18
+        ],
+        "saving_throws": [
+          {
+            "dex": 5
+          },
+          {
+            "wis": 7
+          },
+          {
+            "cha": 8
+          }
+        ],
+        "damage_resistances": "acid, cold, lightning",
+        "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 13",
+        "languages": "Aquan",
+        "cr": 11,
+        "traits": [
+          {
+            "name": "Amphibious",
+            "desc": "The marid can breathe air and water."
+          },
+          {
+            "name": "Elemental Demise",
+            "desc": "If the marid dies, its body disintegrates into a burst of water and foam, leaving behind only equipment the marid was wearing or carrying."
+          },
+          {
+            "name": "Innate Spellcasting",
+            "desc": "The marid's innate spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no material components:\nAt will: create or destroy water, detect evil and good, detect magic, fog cloud, purify food and drink\n3/day each: tongues, water breathing, water walk\n1/day each: conjure elemental (water elemental only), control water, gaseous form, invisibility, plane shift\n"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The marid makes two trident attacks."
+          },
+          {
+            "name": "Trident",
+            "desc": "_Melee or Ranged Weapon Attack_: +10 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit_: 13 (2d6 + 6) piercing damage, or 15 (2d8 + 6) piercing damage if used with two hands to make a melee attack."
+          },
+          {
+            "name": "Water jet",
+            "desc": "The marid magically shoots water in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw. On a failure, a target takes 21 (6d6) bludgeoning damage and, if it is Huge or smaller, is pushed up to 20 feet away from the marid and knocked prone. On a success, a target takes half the bludgeoning damage, but is neither pushed nor knocked prone."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Barlgura",
+      {
+        "name": "Barlgura",
+        "size": "Large",
+        "type": "fiend(Demon)",
+        "alignment": "chaotic evil",
+        "ac": "15 (natural armor)",
+        "hp": 68,
+        "hit_dice": "8d10 + 24",
+        "speed": "40 ft., climb 40 ft.",
+        "stats": {
+          "str": 18,
+          "dex": 15,
+          "con": 16,
+          "int": 7,
+          "wis": 14,
+          "cha": 9
+        },
+        "saves": [
+          {
+            "dex": 5
+          },
+          {
+            "con": 6
+          }
+        ],
+        "skillsaves": [
+          {
+            "Perception": 5
+          },
+          {
+            "Stealth": 5
+          }
+        ],
+        "damage_resistances": "cold,fire, lightning",
+        "damage_immuities": "poison",
+        "condition_immunities": "poisoned",
+        "senses": "blindsight 30 ft., darkvision 120 ft.",
+        "languages": "Abyssal",
+        "cr": 5,
+        "traits": [
+          {
+            "name": "Innate Spellcasting",
+            "desc": "The barlgura's spellcasting ability is Wisdom (spell save DC 13). The barlgura can innately cast the following spells, requiring no material components:\n1/day each: _<STATBLOCK-MARKDOWN-LINK>https://www.aidedd.org/dnd/sorts.php?vo=entangle|entangle<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>https://www.aidedd.org/dnd/sorts.php?vo=phantasmal-force|phantasmal force<STATBLOCK-MARKDOWN-LINK>_\n2/day each: _<STATBLOCK-MARKDOWN-LINK>https://www.aidedd.org/dnd/sorts.php?vo=disguise-self|disguise self<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>https://www.aidedd.org/dnd/sorts.php?vo=invisibility|invisibility<STATBLOCK-MARKDOWN-LINK>_ (self only)\n"
+          },
+          {
+            "name": "Reckless",
+            "desc": "At the start of its turn, the barlgura can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.\n"
+          },
+          {
+            "name": "Running Leap",
+            "desc": "The barlgura's long jump is up to 40 feet and its high jump is up to 20 feet when it has a running start."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The barlgura makes three attacks: one with its bite and two with its fists.\n"
+          },
+          {
+            "name": "Bite",
+            "desc": "_Melee Weapon Attack_: +7 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) piercing damage."
+          },
+          {
+            "name": "Fist",
+            "desc": "_Melee Weapon Attack_: +7 to hit, reach 5 ft., one target. _Hit_: 9 (1d10 + 4) bludgeoning damage."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Necromancer Wizard",
+      {
+        "name": "Necromancer Wizard",
+        "size": "Medium",
+        "type": "humanoid",
+        "alignment": "any evil",
+        "ac": "12 (15 with mage armor)",
+        "hp": 110,
+        "hit_dice": "13d8",
+        "speed": "30 ft.",
+        "stats": {
+          "str": 9,
+          "dex": 14,
+          "con": 12,
+          "int": 17,
+          "wis": 12,
+          "cha": 11
+        },
+        "skillsaves": [
+          {
+            "arcana": 7
+          },
+          {
+            "history": 7
+          }
+        ],
+        "senses": "Passive Perception 11",
+        "languages": "What is needed",
+        "cr": 9,
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The necromancer makes three Arcane Burst attacks."
+          },
+          {
+            "name": "Arcane Burst",
+            "desc": "_Melee or Ranged Spell Attack:_ +7 to hit, reach 5 ft. or range 120 ft., one target. _Hit:_ 25 (4d10 + 3) necrotic damage."
+          },
+          {
+            "name": "Spellcasting",
+            "desc": "The necromancer casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 15):\n\n At will: <STATBLOCK-MARKDOWN-LINK>https://5e.tools/spells.html#dancing%20lights_phb|dancing lights<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>https://5e.tools/spells.html#mage%20hand_phb|mage hand<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>https://5e.tools/spells.html#prestidigitation_phb|prestidigitation<STATBLOCK-MARKDOWN-LINK>\n\n 2/day each: <STATBLOCK-MARKDOWN-LINK>https://5e.tools/spells.html#bestow%20curse_phb|bestow curse<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>https://5e.tools/spells.html#dimension%20door_phb|dimension door<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>https://5e.tools/spells.html#mage%20armor_phb|mage armor<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>https://5e.tools/spells.html#web_phb|web<STATBLOCK-MARKDOWN-LINK>\n\n 1/day: <STATBLOCK-MARKDOWN-LINK>https://5e.tools/spells.html#circle%20of%20death_phb|circle of death<STATBLOCK-MARKDOWN-LINK>\n"
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Summon Undead (1/Day)",
+            "desc": "The necromancer magically summons five **skeletons** or **zombies**. The summoned creatures appear in unoccupied spaces within 60 feet of the necromancer, whom they obey. They take their turns immediately after the necromancer. Each lasts for 1 hour, until it or the necromancer dies, or until the necromancer dismisses it as a bonus action."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Grim Harvest (1/Turn)",
+            "desc": "When the necromancer kills a creature with necrotic damage, the necromancer regains 9 (2d8) hit points."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Nothic",
+      {
+        "name": "Nothic",
+        "size": "Medium",
+        "type": "aberration",
+        "alignment": "neutral evil",
+        "ac": "15 (natural armor)",
+        "hp": 45,
+        "speed": "30 ft.",
+        "stats": {
+          "str": 14,
+          "dex": 16,
+          "con": 16,
+          "int": 13,
+          "wis": 10,
+          "cha": 8
+        },
+        "skillsaves": [
+          {
+            "arcana": 3
+          },
+          {
+            "insight": 4
+          },
+          {
+            "perception": 2
+          },
+          {
+            "stealth": 5
+          }
+        ],
+        "senses": "truesight 120 ft., Passive Perception 12",
+        "languages": "Common, Undercommon",
+        "cr": 2,
+        "traits": [
+          {
+            "name": "Keen Sight",
+            "desc": "The nothic has advantage on Wisdom(Perception) checks that rely on sight.\n"
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The nothic makes two claw attacks."
+          },
+          {
+            "name": "Claw",
+            "desc": "_Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage."
+          },
+          {
+            "name": "Rotting Gaze",
+            "desc": "The nothic targets one creature it can see within 30 feet. The target must succeed on a DC 12 Constitution saving throw or take 10 (3d6) necrotic damage.\n"
+          },
+          {
+            "name": "Weird Insight",
+            "desc": "The nothic targets one creature it can see within 30 feet of it. The target must contest its Charisma (Deception) check against the nothic’s Wisdom (Insight) check. If the nothic wins, it magically learns one fact or secret about the target. The target automatically wins if it is immune to being charmed."
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Water Weird",
+      {
+        "name": "Water Weird",
+        "size": "Large",
+        "type": "elemental",
+        "alignment": "neutral",
+        "ac": 13,
+        "hp": 58,
+        "hit_dice": "9d10 + 9",
+        "speed": "0ft, swim 60 ft.",
+        "stats": {
+          "str": 17,
+          "dex": 16,
+          "con": 13,
+          "int": 11,
+          "wis": 10,
+          "cha": 10
+        },
+        "damage_resistances": "fire; bludgeoning, piercing, and slashing from nonmagical attacks",
+        "damage_immunities": "poison",
+        "condition_immunities": "exhaustion, grappled, paralyzed, poisoned, restrained, prone, unconscious",
+        "senses": "blindsight 30 ft., Passive Perception 10",
+        "languages": "understands Aquan but does not speak",
+        "cr": 3,
+        "traits": [
+          {
+            "name": "Invisible in Water",
+            "desc": "The water weird is invisible while fully immersed in water.\n"
+          },
+          {
+            "name": "Water Bound",
+            "desc": "The water weird dies if it leaves the water to which it is bound or if that water is destroyed."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Constrict",
+            "desc": "_Melee Weapon Attack_: +5 to hit, reach 10 ft., one creature. _Hit_: 13 (3d6 + 3) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 13) and pulled 5 feet toward the water weird. Until this grapple ends, the target is restrained, the water weird tries to drown it, and the water weird can't constrict another target.\n"
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ]
+  ],
+  "defaultLayouts": {},
+  "layouts": [],
+  "default": "basic-5e-layout",
+  "useDice": true,
+  "renderDice": false,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 4,
+    "minor": 10,
+    "patch": 3
+  },
+  "paths": [
+    "/"
+  ],
+  "autoParse": false,
+  "disableSRD": false,
+  "tryToRenderLinks": true,
+  "debug": false,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": false
+}

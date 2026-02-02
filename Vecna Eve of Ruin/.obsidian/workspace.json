@@ -1,0 +1,410 @@
+{
+  "main": {
+    "id": "dd15cad8517bf84d",
+    "type": "split",
+    "children": [
+      {
+        "id": "344f45b6b71abdc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd79c03c6c64ae28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/Save the Kidnapped Nobles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Save the Kidnapped Nobles"
+            }
+          },
+          {
+            "id": "6a962c52122ee72c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Neverdeath Graveyard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Neverdeath Graveyard"
+            }
+          },
+          {
+            "id": "e546518f60307eb2",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": [
+                [
+                  {
+                    "name": "Aboleth",
+                    "source": "5e SRD",
+                    "size": "Large",
+                    "type": "aberration",
+                    "subtype": "",
+                    "alignment": "lawful evil",
+                    "ac": 17,
+                    "hp": 135,
+                    "hit_dice": "18d10 + 36",
+                    "speed": "10 ft., swim 40 ft.",
+                    "stats": [
+                      21,
+                      9,
+                      15,
+                      18,
+                      15,
+                      18
+                    ],
+                    "saves": [
+                      {
+                        "constitution": 6
+                      },
+                      {
+                        "intelligence": 8
+                      },
+                      {
+                        "wisdom": 6
+                      }
+                    ],
+                    "skillsaves": [
+                      {
+                        "history": 12
+                      },
+                      {
+                        "perception": 10
+                      }
+                    ],
+                    "damage_vulnerabilities": "",
+                    "damage_resistances": "",
+                    "damage_immunities": "",
+                    "condition_immunities": "",
+                    "senses": "darkvision 120 ft., passive Perception 20",
+                    "languages": "Deep Speech, telepathy 120 ft.",
+                    "cr": "10",
+                    "bestiary": true,
+                    "traits": [
+                      {
+                        "name": "Amphibious",
+                        "desc": "The aboleth can breathe air and water.",
+                        "attack_bonus": 0
+                      },
+                      {
+                        "name": "Mucous Cloud",
+                        "desc": "While underwater, the aboleth is surrounded by transformative mucus. A creature that touches the aboleth or that hits it with a melee attack while within 5 ft. of it must make a DC 14 Constitution saving throw. On a failure, the creature is diseased for 1d4 hours. The diseased creature can breathe only underwater.",
+                        "attack_bonus": 0
+                      },
+                      {
+                        "name": "Probing Telepathy",
+                        "desc": "If a creature communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires if the aboleth can see the creature.",
+                        "attack_bonus": 0
+                      }
+                    ],
+                    "actions": [
+                      {
+                        "name": "Multiattack",
+                        "desc": "The aboleth makes three tentacle attacks.",
+                        "attack_bonus": 0
+                      },
+                      {
+                        "name": "Tentacle",
+                        "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any magic that cures disease. After 1 minute, the diseased creature's skin becomes translucent and slimy, the creature can't regain hit points unless it is underwater, and the disease can be removed only by heal or another disease-curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed.",
+                        "attack_bonus": 9,
+                        "damage_dice": "2d6",
+                        "damage_bonus": 5
+                      },
+                      {
+                        "name": "Tail",
+                        "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft. one target. Hit: 15 (3d6 + 5) bludgeoning damage.",
+                        "attack_bonus": 9,
+                        "damage_dice": "3d6",
+                        "damage_bonus": 5
+                      },
+                      {
+                        "name": "Enslave (3/day)",
+                        "desc": "The aboleth targets one creature it can see within 30 ft. of it. The target must succeed on a DC 14 Wisdom saving throw or be magically charmed by the aboleth until the aboleth dies or until it is on a different plane of existence from the target. The charmed target is under the aboleth's control and can't take reactions, and the aboleth and the target can communicate telepathically with each other over any distance.\nWhenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from the aboleth.",
+                        "attack_bonus": 0
+                      }
+                    ],
+                    "legendary_actions": [
+                      {
+                        "name": "Detect",
+                        "desc": "The aboleth makes a Wisdom (Perception) check.",
+                        "attack_bonus": 0
+                      },
+                      {
+                        "name": "Tail Swipe",
+                        "desc": "The aboleth makes one tail attack.",
+                        "attack_bonus": 0
+                      },
+                      {
+                        "name": "Psychic Drain (Costs 2 Actions)",
+                        "desc": "One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.",
+                        "attack_bonus": 0
+                      }
+                    ]
+                  },
+                  1
+                ],
+                [
+                  {
+                    "name": "Test name",
+                    "type": "Player",
+                    "source": "Homebrew",
+                    "layout": "Basic 5e Layout"
+                  },
+                  1
+                ]
+              ],
+              "icon": "intiative-tracker-encounter-builder",
+              "title": "Encounter Builder"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8fed0f45139be850",
+    "type": "split",
+    "children": [
+      {
+        "id": "3978b53cae25592c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a98465cac658e218",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2d9ab73aac85822a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"tags\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3e5db533d58e3327",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87bbad1dff2869da",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c81b8efe3e6e60f",
+        "type": "tabs",
+        "dimension": 72.54901960784314,
+        "children": [
+          {
+            "id": "817ad550dfe42b75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "2c49b92098be3ab9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "e85944fe6341328d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c939220c9ac3fb7e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "95a95e83391566e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Locations/Neverdeath Graveyard.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Neverdeath Graveyard"
+            }
+          },
+          {
+            "id": "2d2ba4a756232419",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "68867a5f23d58701",
+        "type": "tabs",
+        "dimension": 27.450980392156865,
+        "children": [
+          {
+            "id": "1b1c3648265981e8",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 556.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
+    }
+  },
+  "active": "e546518f60307eb2",
+  "lastOpenFiles": [
+    "Bestiary/Monsters/Water Weird.md",
+    "Bestiary/PCs/Feta Ostervik.md",
+    "Locations/Neverdeath Graveyard.md",
+    "Bestiary/Monsters",
+    "Assets/Monsters/Nothic_image.png",
+    "Assets/Monsters",
+    "Assets/Magic Items",
+    "Magic Items",
+    "Locations/Faerûn.md",
+    "Locations/Evernight.md",
+    "Locations/Neverwinter.md",
+    "Quests/Escape Evernight.md",
+    "Quests/Save the Kidnapped Nobles.md",
+    "NPCs/Umberto Noblin.md",
+    "NPCs/Sarcelle Malinosh.md",
+    "NPCs/Jerot Galgin.md",
+    "NPCs/Indrina Lamsensettle.md",
+    "NPCs/Eldon Keyward.md",
+    "NPCs/Dagult Neverember.md",
+    "Quests",
+    "Factions/The Cult of Vecna.md",
+    "Factions.md",
+    "Factions",
+    "Assets/NPCs/Jerot_Galgin.webp",
+    "Assets/NPCs/Umberto_Noblin.webp",
+    "Assets/NPCs/Umberto Noblin 1.url",
+    "Assets/NPCs/Umberto Noblin.url",
+    "Assets/NPCs/Untitled.jpg",
+    "Assets/NPCs/Sarcelle_Malinosh.webp",
+    "Assets/NPCs/Indrina_Lamsensettle.webp",
+    "Locations/The Shadowfell.md",
+    "Assets/Locations/NeverwinterHarbor.webp",
+    "Assets/Locations/NeverwinterHarbor 1.webp",
+    "Bestiary/PCs/Trapic.md",
+    "Bestiary/PCs/Trickery.md",
+    "Bestiary/Wight.md",
+    "Bestiary/PCs",
+    "Goblin.md",
+    "Encounters",
+    "Chapters/Ch. 10.md",
+    "Chapters/Ch. 9.md",
+    "Chapters/Ch. 8.md",
+    "Chapters/Ch. 7.md",
+    "Chapters/Ch. 6.md",
+    "Assets/NPCs/Dagult_Neverember.webp",
+    "Assets/Locations/Evernight_-_Calder_Moore.webp"
+  ]
+}
