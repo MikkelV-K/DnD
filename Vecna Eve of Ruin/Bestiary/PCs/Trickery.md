@@ -1,8 +1,9 @@
 ```statblock
-name: Trickery
+name: "|Trickery|"
 type: Player
 ```
-Veras karakter
+
+Vera
 
 
 

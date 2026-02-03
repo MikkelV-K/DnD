@@ -1,4 +1,5 @@
 ```statblock
-name: Trapic
+name: "|Trapic|"
 type: Player
 ```
+Mikkel

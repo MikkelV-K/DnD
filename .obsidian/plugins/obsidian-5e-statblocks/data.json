@@ -45,6 +45,42 @@
       }
     ],
     [
+      "Test name",
+      {
+        "name": "Test name",
+        "type": "Player",
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Trickery",
+      {
+        "name": "Trickery",
+        "type": "Player",
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Trapic",
+      {
+        "name": "Trapic",
+        "type": "Player",
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Feta Ostervik",
+      {
+        "name": "Feta Ostervik",
+        "type": "Player",
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
       "Marid",
       {
         "name": "Marid",
@@ -347,33 +383,6 @@
             "desc": "_Melee Weapon Attack_: +5 to hit, reach 10 ft., one creature. _Hit_: 13 (3d6 + 3) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 13) and pulled 5 feet toward the water weird. Until this grapple ends, the target is restrained, the water weird tries to drown it, and the water weird can't constrict another target.\n"
           }
         ],
-        "source": "Homebrew",
-        "layout": "Basic 5e Layout"
-      }
-    ],
-    [
-      "|Feta Ostervik|",
-      {
-        "name": "|Feta Ostervik|",
-        "type": "Player",
-        "source": "Homebrew",
-        "layout": "Basic 5e Layout"
-      }
-    ],
-    [
-      "|Trapic|",
-      {
-        "name": "|Trapic|",
-        "type": "Player",
-        "source": "Homebrew",
-        "layout": "Basic 5e Layout"
-      }
-    ],
-    [
-      "|Trickery|",
-      {
-        "name": "|Trickery|",
-        "type": "Player",
         "source": "Homebrew",
         "layout": "Basic 5e Layout"
       }

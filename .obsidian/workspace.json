@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "e488d2c00e91a64b",
+        "id": "6b864ae93cbbb59f",
         "type": "tabs",
         "children": [
           {
-            "id": "ad29d16a7a04da6d",
+            "id": "accffeb8a56171d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Factions/The Cult of Vecna.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Cult of Vecna"
+            }
+          },
+          {
+            "id": "dae7d8988700a6e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/The Wizard Three.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Wizard Three"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Factions/The Wizard Three.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for The Wizard Three"
             }
           },
           {
@@ -147,32 +166,22 @@
             }
           },
           {
-            "id": "95a95e83391566e1",
+            "id": "54b295627faa093b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bestiary/PCs/Feta Ostervik.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Feta Ostervik"
+              "title": "Outline of Welcome"
             }
           },
           {
-            "id": "99593edf5b8c0810",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "eb64ddb0e558fe39",
+            "id": "0f08f1adecfc20fc",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -182,29 +191,28 @@
             }
           },
           {
-            "id": "94d2a1c69e7aa151",
+            "id": "f39f8a3ac87d71a6",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
-        "id": "6151fb934c812c49",
+        "id": "21431bbf7a233d2b",
         "type": "tabs",
         "children": [
           {
-            "id": "d8074e7a0e60267a",
+            "id": "6e19454cd8974039",
             "type": "leaf",
             "state": {
-              "type": "initiative-tracker-creature-view",
+              "type": "fantasy-statblocks-creature-pane",
               "state": {},
-              "icon": "initiative-tracker-creature-view",
+              "icon": "skull",
               "title": "Combatant"
             }
           }
@@ -212,7 +220,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 553.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,57 +233,56 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
   "active": "a98465cac658e218",
   "lastOpenFiles": [
-    "Bestiary/PCs/Trickery.md",
-    "Bestiary/PCs/Feta Ostervik.md",
-    "Bestiary/PCs/Trapic.md",
-    "Sessions/Encounters/1770061011282 - Encounter.md",
-    "Sessions/Encounters/1770060060874 - Encounter.md",
-    "Untitled.base",
-    "Untitled.md",
-    "Quests/Save the Kidnapped Nobles.md",
-    "Sessions/Encounters/1770060042834 - Encounter.md",
+    "Factions/Untitled.md",
+    "Factions/The Wizard Three.md",
+    "Factions/The Cult of Vecna.md",
     "Locations/Evernight.md",
-    "Locations/Faerûn.md",
-    "Locations/Neverdeath Graveyard.md",
-    "Locations/Neverwinter.md",
-    "Locations/The Shadowfell.md",
-    "Locations/Toril.md",
-    "Dungeons",
+    "NPCs/Shanzezim.md",
     "Bestiary/Monsters/Water Weird.md",
+    "Bestiary/Monsters/Nothic.md",
+    "Bestiary/Monsters/Necromancer Wizard.md",
+    "Bestiary/Monsters/Barlgura.md",
+    "NPCs/Jerot Galgin.md",
     "Bestiary/Monsters",
+    "Assets/Monsters/water-weird.jpg",
+    "Assets/Monsters/Necromancer Wizard.webp",
+    "Assets/Monsters/Barlgura.webp",
     "Assets/Monsters/Nothic_image.png",
     "Assets/Monsters",
+    "Magic Items/Stone of Good Luck.md",
+    "Assets/NPCs/Shanzezim.webp",
+    "Assets/Magic Items/gold_colored_flywheel.jpg",
     "Assets/Magic Items",
     "Magic Items",
-    "Quests/Escape Evernight.md",
-    "NPCs/Umberto Noblin.md",
     "NPCs/Sarcelle Malinosh.md",
-    "NPCs/Jerot Galgin.md",
-    "NPCs/Indrina Lamsensettle.md",
-    "NPCs/Eldon Keyward.md",
+    "Bestiary/PCs/Feta Ostervik.md",
+    "Assets/NPCs/Shanzezim.url",
+    "Locations/The Neverdeath Catacombs.md",
+    "Locations/Neverdeath Graveyard.md",
+    "Locations/Neverwinter.md",
+    "Assets/Locations/Waterclock_Guild's_Crypts-1.webp",
+    "Assets/Locations/Waterclock_Guild's_Crypts.webp",
     "NPCs/Dagult Neverember.md",
+    "NPCs/Indrina Lamsensettle.md",
+    "NPCs/Umberto Noblin.md",
+    "NPCs/Vecna.md",
+    "A cult of Vecna.md",
+    "NPCs/Eldon Keyward.md",
     "Quests",
-    "Factions/The Cult of Vecna.md",
-    "Factions.md",
     "Factions",
-    "Assets/NPCs/Jerot_Galgin.webp",
-    "Assets/NPCs/Umberto_Noblin.webp",
-    "Assets/NPCs/Umberto Noblin 1.url",
-    "Assets/NPCs/Umberto Noblin.url",
-    "Assets/NPCs/Untitled.jpg",
-    "Assets/NPCs/Sarcelle_Malinosh.webp",
-    "Assets/NPCs/Indrina_Lamsensettle.webp",
+    "Encounters",
+    "Bestiary/PCs",
+    "Bestiary",
     "Assets/Locations/NeverwinterHarbor.webp",
-    "Assets/Locations/NeverwinterHarbor 1.webp",
-    "Bestiary/Wight.md",
-    "Goblin.md",
-    "Assets/NPCs/Dagult_Neverember.webp",
-    "Assets/Locations/Evernight_-_Calder_Moore.webp"
+    "Chapters/Ch. 10.md",
+    "Chapters/Ch. 9.md",
+    "Chapters/Ch. 8.md",
+    "Chapters/Ch. 7.md",
+    "Assets/NPCs/Dagult_Neverember.webp"
   ]
 }
