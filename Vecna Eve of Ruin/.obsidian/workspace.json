@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/Escape Evernight.md",
+                "file": "NPCs/Newmy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Escape Evernight"
+              "title": "Newmy"
             }
           }
         ]
@@ -254,13 +254,25 @@
   },
   "active": "cb7d72c5b5217deb",
   "lastOpenFiles": [
+    "NPCs/Sangora.md",
+    "Assets/NPCs/Newmy_ghost.png",
+    "Assets/NPCs/Untitled-1.jpg",
+    "Assets/NPCs/Sangora_-_ZUZANNA_WUZYK.webp",
+    "Assets/NPCs/Untitled.jpg",
+    "Dungeons/Dolindar Tomb.md",
+    "Dungeons/The Neverdeath Catacombs.md",
+    "Assets/Maps/dolindar-tomb-map-32x20-eve-of-ruin-v0-tbj6bxkdp70d1.jpg",
+    "Assets/Maps",
+    "NPCs/Newmy.md",
+    "Untitled.md",
+    "Locations/Evernight.md",
+    "Locations/Neverwinter.md",
+    "Locations/The Shadowfell.md",
+    "Locations/Toril.md",
     "Quests/Save the Kidnapped Nobles.md",
     "Quests/Escape Evernight.md",
-    "Locations/Neverwinter.md",
     "NPCs/Indrina Lamsensettle.md",
-    "Dungeons/The Neverdeath Catacombs.md",
     "[The Neverdeath Catacombs.md",
-    "Locations/Evernight.md",
     "Bestiary/PCs/Feta Ostervik.md",
     "Dungeons",
     "Bestiary/PCs/Trapic.md",
@@ -268,12 +280,9 @@
     "Sessions/Encounters/1770061011282 - Encounter.md",
     "Sessions/Encounters/1770060060874 - Encounter.md",
     "Untitled.base",
-    "Untitled.md",
     "Sessions/Encounters/1770060042834 - Encounter.md",
     "Locations/Faerûn.md",
     "Locations/Neverdeath Graveyard.md",
-    "Locations/The Shadowfell.md",
-    "Locations/Toril.md",
     "Bestiary/Monsters/Water Weird.md",
     "Bestiary/Monsters",
     "Assets/Monsters/Nothic_image.png",
@@ -283,22 +292,12 @@
     "NPCs/Umberto Noblin.md",
     "NPCs/Sarcelle Malinosh.md",
     "NPCs/Jerot Galgin.md",
-    "NPCs/Eldon Keyward.md",
-    "NPCs/Dagult Neverember.md",
     "Quests",
-    "Factions/The Cult of Vecna.md",
-    "Factions.md",
     "Factions",
     "Assets/NPCs/Jerot_Galgin.webp",
     "Assets/NPCs/Umberto_Noblin.webp",
     "Assets/NPCs/Umberto Noblin 1.url",
-    "Assets/NPCs/Umberto Noblin.url",
-    "Assets/NPCs/Untitled.jpg",
     "Assets/NPCs/Sarcelle_Malinosh.webp",
-    "Assets/NPCs/Indrina_Lamsensettle.webp",
-    "Assets/Locations/NeverwinterHarbor.webp",
-    "Assets/Locations/NeverwinterHarbor 1.webp",
-    "Assets/NPCs/Dagult_Neverember.webp",
-    "Assets/Locations/Evernight_-_Calder_Moore.webp"
+    "Assets/NPCs/Indrina_Lamsensettle.webp"
   ]
 }

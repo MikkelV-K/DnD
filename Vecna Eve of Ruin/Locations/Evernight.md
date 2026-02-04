@@ -8,3 +8,6 @@
 
 ## Description
 [[Neverwinter]]'s dismal opposite. The sun never shines on Evernight, and ash-laden fog raises from lava flowing through the city in the place of Neverwinters River, choking the city.
+
+## NPCs found here
+- 

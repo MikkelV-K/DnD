@@ -1,0 +1,1 @@
+![[Newmy_ghost.png]]
