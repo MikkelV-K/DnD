@@ -10,6 +10,7 @@ Save the missing nobles.
 [[Sarcelle Malinosh]]: Kidnapped noble
 [[Umberto Noblin]]: Kidnapped noble
 [[Jerot Galgin]]: Cult leader in [[The Cult of Vecna]]
+[[Shanzezim]]: Marid living in [[The Neverdeath Catacombs]]
 
 ## Reward
 A home each in [[Neverwinter]]
