@@ -1,7 +1,7 @@
 ![[neverdeath-graveyard.webp]]
 *Located in [[Neverdeath Graveyard]], encountered in [[Ch. 1]] quest [[Save the Kidnapped Nobles]]*
 
-## Descripton
+## General Features
 
 - The walls are marked with mold and tangled roots as well as symbols depicting staring eyes and left hands.
 - The ceilings are 10 feet high in passages and 15 feet in rooms.
