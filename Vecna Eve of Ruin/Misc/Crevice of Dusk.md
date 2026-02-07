@@ -1,0 +1,1 @@
+**Crevices of Dusk** were portals, gateways, or otherwise "gaps" between the Material Plane and [[the Shadowfell]] that occurred throughout [[Neverwinter]] and its Shadowfell twin, [[Evernight]].

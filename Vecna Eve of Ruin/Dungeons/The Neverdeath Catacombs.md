@@ -3,11 +3,11 @@
 
 ## General Features
 
-- The walls are marked with mold and tangled roots as well as symbols depicting staring eyes and left hands.
-- The ceilings are 10 feet high in passages and 15 feet in rooms.
-- Doors throughout the area are made of heavy stone with metal hinges. They are well oiled, so they don't make much noise when opened. Most are unlocked.
-- The right side of the map is dark, and characters need a light source or darkvision to see. The left side is brightly lit.
-- The sound of water dripping can be heard where there are pipes.
+- **Broken Stone:** The walls are marked with mold and tangled roots as well as symbols depicting staring eyes and left hands.
+- **Ceilings:** The ceilings are 10 feet high in passages and 15 feet in rooms.
+- **Doors:** Doors throughout the area are made of heavy stone with metal hinges. They are well oiled, so they don't make much noise when opened. Most are unlocked.
+- **Lighting:** The right side of the map is dark, and characters need a light source or darkvision to see. The left side is brightly lit.
+- **Vestiges of the Waterclock guild:** The sound of water dripping can be heard where there are pipes.
 ## History
 Part of the catacombs once belonged to the Waterclock Guild. The guild members are gone, though their bound elementals and clockwork mechanism remain. They are the reason for the network of pipes.
 
