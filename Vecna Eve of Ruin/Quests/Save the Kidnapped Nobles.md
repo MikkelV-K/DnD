@@ -1,4 +1,4 @@
-Takes place in [[Neverwinter]] in [[Ch. 1]].
+Takes place in [[Neverwinter]] in [[Ch. 1]], given by [[Dagult Neverember]].
 
 ## Goal
 Save the missing nobles.
@@ -13,4 +13,4 @@ Save the missing nobles.
 [[Shanzezim]]: Marid living in [[The Neverdeath Catacombs]]
 
 ## Reward
-A home each in [[Neverwinter]]
+A home each in [[Neverwinter]] as well as 9000 gp in reward from the families of the rescued nobles.

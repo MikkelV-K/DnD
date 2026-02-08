@@ -478,6 +478,149 @@
         "source": "Homebrew",
         "layout": "Basic 5e Layout"
       }
+    ],
+    [
+      "Spiderdragon",
+      {
+        "name": "Spiderdragon",
+        "size": "Huge",
+        "type": "Monstrosity",
+        "alignment": "Chaotic Evil",
+        "ac": "17 (natural armor)",
+        "hp": 152,
+        "speed": "50 ft., Climn 60 ft.",
+        "stats": [
+          21,
+          18,
+          16,
+          7,
+          14,
+          18
+        ],
+        "skillsaves": [
+          {
+            "Intimidation": 8
+          },
+          {
+            "Perception": 6
+          }
+        ],
+        "damage_resistances": "Poison, Psychic",
+        "senses": "Darkvision 90 ft., Passive Perception 16",
+        "languages": "Abyssal, Draconic, Undercommon",
+        "cr": 11,
+        "traits": [
+          {
+            "name": "Magic Resistance",
+            "desc": "The spiderdragon has advantage on saving throws against spells and other magical effects."
+          },
+          {
+            "name": "Spider Climb",
+            "desc": "The spiderdragon can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+          },
+          {
+            "name": "Web Walker",
+            "desc": "The spiderdragon ignores movement restrictions caused by webbing."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The spiderdragon makes one Bite attack and two Claw attacks."
+          },
+          {
+            "name": "Bite",
+            "desc": "_Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 10 (1d10 + 5) piercing damage plus 13 (2d12) poison damage."
+          },
+          {
+            "name": "Claw",
+            "desc": "_Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage."
+          },
+          {
+            "name": "Spiderling Breath (Recharge 5–6)",
+            "desc": "The spiderdragon exhales venomous spiderlings in a 30-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 33 (6d10) piercing damage and 33 (6d10) poison damage on a failed save or half as much damage on a successful one."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Stifling Webs (Recharge 5-6)",
+            "desc": "The spiderdragon spins a 30-foot cube of strong, sticky webbing in an area adjacent to itself. The webbing lasts for 1 minute, is difficult terrain, and lightly obscures its area. A creature that starts its turn in the webbing or enters the webbing for the first time on its turn must succeed on a DC 15 Dexterity saving throw or have the <STATBLOCK-MARKDOWN-LINK>https://5e.tools/conditionsdiseases.html#restrained_phb|restrained<STATBLOCK-MARKDOWN-LINK> condition while in the web. As an action, a creature can free itself or another creature from the web by succeeding on a DC 15 Strength check.\nA 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or slashing damage on a single turn.\n"
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "Yochlol",
+      {
+        "name": "Yochlol",
+        "size": "Medium",
+        "type": "Fiend (Demon, Shapechanger)",
+        "alignment": "Chaotic Evil",
+        "ac": "15 (natural armor)",
+        "hp": 136,
+        "speed": "30 ft., Climb 30 ft.",
+        "stats": [
+          15,
+          14,
+          18,
+          13,
+          15,
+          15
+        ],
+        "skillsaves": [
+          {
+            "Deception": 10
+          },
+          {
+            "Insight": 6
+          }
+        ],
+        "damage_resistances": "Cold, Fire, Lightning; bludgeoning, piercing, and slashing from nonmagical attacks",
+        "damage_immunities": "Poison; Poisoned",
+        "senses": "Darkvision 120 ft., Passive Perception 12",
+        "languages": "Abyssal, Elvish, Undercommon",
+        "cr": 10,
+        "traits": [
+          {
+            "name": "Shapechanger",
+            "desc": "The yochlol can use its action to polymorph into a form that resembles a female drow or giant spider, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+          },
+          {
+            "name": "Innate Spellcasting",
+            "desc": "The yochlol's spellcasting ability is Charisma (spell save DC 14). The yochlol can innately cast the following spells, requiring no material components:\nAt will: <STATBLOCK-MARKDOWN-LINK>https://5e.tools/spells.html#detect%20thoughts_phb|detect thoughts<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>https://5e.tools/spells.html#web_phb|web<STATBLOCK-MARKDOWN-LINK>\n1/day: <STATBLOCK-MARKDOWN-LINK>https://5e.tools/spells.html#dominate%20person_phb|dominate person<STATBLOCK-MARKDOWN-LINK>\n"
+          },
+          {
+            "name": "Magic Resistance",
+            "desc": "The yochlol has advantage on saving throws against spells and other magical effects."
+          },
+          {
+            "name": "Spider Climb",
+            "desc": "The yochlol can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+          },
+          {
+            "name": "Web Walker",
+            "desc": "The yochlol ignores movement restrictions caused by webbing."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The yochlol makes two melee attacks."
+          },
+          {
+            "name": "Slam (Bite in Spider Form)",
+            "desc": "_Melee Weapon Attack:_ +6 to hit, reach 5 ft. (10 feet in demon form), one target. _Hit:_ 5 (1d6 + 2) bludgeoning (piercing in spider form) damage plus 21 (6d6) poison damage."
+          },
+          {
+            "name": "Mist Form",
+            "desc": "The yochlol transforms into toxic mist or reverts to its true form. Any equipment it is wearing or carrying is also transformed. It reverts to its true form if it dies.\nWhile in mist form, the yochlol is <STATBLOCK-MARKDOWN-LINK>https://5e.tools/conditionsdiseases.html#incapacitated_phb|incapacitated<STATBLOCK-MARKDOWN-LINK> and can't speak. It has a flying speed of 30 feet, can hover, and can pass through any space that isn't airtight. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to nonmagical damage.\nWhile in mist form, the yochlol can enter a creature's space and stop there. Each time that creature starts its turn with the yochlol in its space, the creature must succeed on a DC 14 Constitution saving throw or be <STATBLOCK-MARKDOWN-LINK>https://5e.tools/conditionsdiseases.html#poisoned_phb|poisoned<STATBLOCK-MARKDOWN-LINK> until the start of its next turn. While <STATBLOCK-MARKDOWN-LINK>https://5e.tools/conditionsdiseases.html#poisoned_phb|poisoned<STATBLOCK-MARKDOWN-LINK> in this way, the target is <STATBLOCK-MARKDOWN-LINK>https://5e.tools/conditionsdiseases.html#incapacitated_phb|incapacitated<STATBLOCK-MARKDOWN-LINK>.\n"
+          }
+        ],
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
     ]
   ],
   "defaultLayouts": {},

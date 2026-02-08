@@ -11,32 +11,13 @@
             "id": "546623f68f05e196",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Newmy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Newmy"
-            }
-          },
-          {
-            "id": "98c030a388ae7179",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bestiary/Monsters/Lonely Sorrowsworn.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lonely Sorrowsworn"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Vecna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vecna"
+              "title": "Backlinks"
             }
           },
           {
@@ -232,53 +212,92 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "98c030a388ae7179",
+  "floating": {
+    "id": "69d120351b87a0c9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "061a6aac71128f48",
+        "type": "window",
+        "children": [
+          {
+            "id": "bc8ba870c437e975",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "49cebab883bccb20",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bestiary/Monsters/Barlgura.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Barlgura"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -765,
+        "y": 172,
+        "width": 600,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "94d2a1c69e7aa151",
   "lastOpenFiles": [
+    "Bestiary/Monsters/Yochlol.md",
+    "Bestiary/Monsters/Spiderdragon.md",
+    "Locations/Web's Edge.md",
+    "Templates/Statblock.md",
+    "Bestiary/Monsters/Barlgura.md",
+    "Bestiary/Monsters/Nothic.md",
+    "Bestiary/Monsters/Water Weird.md",
+    "Assets/NPCs/Spiderdragon.avif",
+    "NPCs/Newmy.md",
+    "Locations/The Underdark.md",
+    "Locations/Sigil.md",
+    "Dungeons/The Sigil Sanctum.md",
+    "Templates/Dungeon.md",
+    "Dungeons/The Neverdeath Catacombs.md",
+    "Dungeons/Dolindar Tomb.md",
+    "Templates/Location.md",
+    "Locations/Evernight.md",
+    "Misc/Vecna's Link.md",
+    "NPCs/Kas.md",
+    "Assets/NPCs/Kas the Betrayer.webp",
+    "Chapters/Ch. 2.md",
+    "Chapters/Ch. 1.md",
+    "NPCs/Eldon Keyward.md",
+    "NPCs/Dagult Neverember.md",
+    "NPCs/Alustriel Silverhand.md",
+    "Quests/Save the Kidnapped Nobles.md",
+    "NPCs/Mordenkainen.md",
+    "Assets/NPCs/Mordenkainen_VEoR.webp",
+    "NPCs/Tasha.md",
+    "Assets/NPCs/Tasha-5e.webp",
+    "Assets/NPCs/Alustriel_Silverhand.webp",
     "Assets/Monsters/Kevetta_Dolindar-1.webp",
     "Assets/Monsters/Lonely Sorrowsworn.webp",
     "Assets/Monsters/The lonely matriarch Kevetta Dolindar, monsterized as a sorrowsworn..url",
-    "Bestiary/Monsters/Lost Sorrowsworn.md",
-    "Bestiary/Monsters/Lonely Sorrowsworn.md",
     "Assets/Monsters/Lost Sorrowsworn.webp",
-    "Bestiary/Monsters/Barlgura.md",
-    "Templates/Statblock.md",
-    "Untitled.md",
-    "Templates/NPC.md",
-    "NPCs/Shanzezim.md",
-    "NPCs/Newmy.md",
-    "NPCs/Dagult Neverember.md",
-    "Misc/Crevice of Dusk.md",
-    "Locations/The Shadowfell.md",
     "Misc",
-    "NPCs/Untitled.md",
-    "NPCs/Umberto Noblin.md",
-    "NPCs/Vecna.md",
-    "NPCs/Sangora.md",
-    "Locations/Evernight.md",
-    "NPCs/Indrina Lamsensettle.md",
-    "NPCs/Jerot Galgin.md",
-    "Quests/Escape Evernight.md",
-    "Dungeons/Dolindar Tomb.md",
-    "Dungeons/The Neverdeath Catacombs.md",
     "Templates",
-    "Locations/The Corpse Market.md",
     "Assets/NPCs/Sangora_-_ZUZANNA_WUZYK.webp",
     "Assets/NPCs/Newmy_ghost.png",
-    "Assets/Maps/neverdeath-graveyard.webp",
-    "Assets/Maps/NorthwestFaerun-Map_HighRes.webp",
-    "Assets/Maps/dolindar-tomb-map-32x20-eve-of-ruin-v0-tbj6bxkdp70d1.jpg",
     "Assets/Maps",
-    "Quests/Save the Kidnapped Nobles.md",
-    "Sessions/Encounters/1770061011282 - Encounter.md",
-    "Bestiary/PCs/Trickery.md",
     "Untitled.base",
     "Dungeons",
     "Bestiary/Monsters",
-    "Assets/Monsters/Nothic_image.png",
     "Assets/Monsters",
     "Assets/Magic Items",
-    "Magic Items",
-    "Assets/NPCs/Jerot_Galgin.webp",
-    "Assets/NPCs/Umberto_Noblin.webp"
+    "Magic Items"
   ]
 }
