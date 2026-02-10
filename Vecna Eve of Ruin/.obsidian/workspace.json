@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5f7fc135e20205a9",
+        "id": "53accce67458aed2",
         "type": "tabs",
         "children": [
           {
-            "id": "546623f68f05e196",
+            "id": "bb105919b058bf7e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Dungeons/The Neverdeath Catacombs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Neverdeath Catacombs"
             }
           }
         ]
@@ -212,52 +216,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "69d120351b87a0c9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "061a6aac71128f48",
-        "type": "window",
-        "children": [
-          {
-            "id": "bc8ba870c437e975",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "49cebab883bccb20",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Bestiary/Monsters/Barlgura.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Barlgura"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -765,
-        "y": 172,
-        "width": 600,
-        "height": 600,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "94d2a1c69e7aa151",
+  "active": "bb105919b058bf7e",
   "lastOpenFiles": [
+    "Quests/Save the Kidnapped Nobles.md",
+    "NPCs/Sarcelle Malinosh.md",
+    "Dungeons/The Neverdeath Catacombs.md",
+    "Bestiary/Monsters/Barlgura.md",
+    "Locations/Neverdeath Graveyard.md",
+    "Quests/Escape Evernight.md",
+    "Locations/Neverwinter.md",
     "Bestiary/Monsters/Yochlol.md",
     "Bestiary/Monsters/Spiderdragon.md",
     "Locations/Web's Edge.md",
     "Templates/Statblock.md",
-    "Bestiary/Monsters/Barlgura.md",
     "Bestiary/Monsters/Nothic.md",
     "Bestiary/Monsters/Water Weird.md",
     "Assets/NPCs/Spiderdragon.avif",
@@ -266,7 +237,6 @@
     "Locations/Sigil.md",
     "Dungeons/The Sigil Sanctum.md",
     "Templates/Dungeon.md",
-    "Dungeons/The Neverdeath Catacombs.md",
     "Dungeons/Dolindar Tomb.md",
     "Templates/Location.md",
     "Locations/Evernight.md",
@@ -276,12 +246,7 @@
     "Chapters/Ch. 2.md",
     "Chapters/Ch. 1.md",
     "NPCs/Eldon Keyward.md",
-    "NPCs/Dagult Neverember.md",
-    "NPCs/Alustriel Silverhand.md",
-    "Quests/Save the Kidnapped Nobles.md",
-    "NPCs/Mordenkainen.md",
     "Assets/NPCs/Mordenkainen_VEoR.webp",
-    "NPCs/Tasha.md",
     "Assets/NPCs/Tasha-5e.webp",
     "Assets/NPCs/Alustriel_Silverhand.webp",
     "Assets/Monsters/Kevetta_Dolindar-1.webp",
