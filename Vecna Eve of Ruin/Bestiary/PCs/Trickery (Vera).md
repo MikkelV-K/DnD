@@ -1,5 +1,5 @@
 ```statblock
-name: "|Trickery|"
+name: "|Trickery (Vera)|"
 type: Player
 ```
 

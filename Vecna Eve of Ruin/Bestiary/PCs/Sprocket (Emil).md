@@ -1,5 +1,4 @@
 ```statblock
-name: "|Trapic|"
+name: "|Sprocket (Emil)|"
 type: Player
 ```
-Mikkel

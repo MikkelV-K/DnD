@@ -621,6 +621,15 @@
         "source": "Homebrew",
         "layout": "Basic 5e Layout"
       }
+    ],
+    [
+      "|Sprocket (Emil)|",
+      {
+        "name": "|Sprocket (Emil)|",
+        "type": "Player",
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
     ]
   ],
   "defaultLayouts": {},

@@ -2,7 +2,7 @@
 
 ---
 ```statblock
-name: "|Feta Ostervik|"
+name: "|Feta Ostervik (Karine)|"
 type: Player
 ```
 
