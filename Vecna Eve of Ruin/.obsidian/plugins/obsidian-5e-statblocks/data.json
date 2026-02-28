@@ -352,280 +352,36 @@
       }
     ],
     [
-      "|Feta Ostervik|",
-      {
-        "name": "|Feta Ostervik|",
-        "type": "Player",
-        "source": "Homebrew",
-        "layout": "Basic 5e Layout"
-      }
-    ],
-    [
-      "|Trapic|",
-      {
-        "name": "|Trapic|",
-        "type": "Player",
-        "source": "Homebrew",
-        "layout": "Basic 5e Layout"
-      }
-    ],
-    [
-      "|Trickery|",
-      {
-        "name": "|Trickery|",
-        "type": "Player",
-        "source": "Homebrew",
-        "layout": "Basic 5e Layout"
-      }
-    ],
-    [
-      "Lost Sorrowsworn",
-      {
-        "name": "Lost Sorrowsworn",
-        "size": "Medium",
-        "type": "Monstrosity",
-        "alignment": "Neutral Evil",
-        "ac": "15(natural armor)",
-        "hp": 78,
-        "speed": "30 ft.",
-        "stats": [
-          17,
-          12,
-          15,
-          6,
-          7,
-          5
-        ],
-        "skillsaves": [
-          {
-            "Athletics": 6
-          }
-        ],
-        "damage_resistances": "bludgeoning, piercing, and slashing while in dim light or darkness",
-        "senses": "darkvision 60 ft., passive Perception 8",
-        "languages": "Common",
-        "cr": 7,
-        "actions": [
-          {
-            "name": "Multiattack",
-            "desc": "The sorrowsworn makes two Arm Spike attacks."
-          },
-          {
-            "name": "Arm Spike",
-            "desc": "_Melee Weapon Attack_: +6 to hit, reach 5ft., one target. _Hit:_ 14 (2d10 + 3) piercing damage."
-          },
-          {
-            "name": "Embrace (Recharge 4-6)",
-            "desc": "_Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 25 (4d10 + 3) piercing damage, and the target is <STATBLOCK-MARKDOWN-LINK>https://5e.tools/conditionsdiseases.html#grappled_phb|grappled<STATBLOCK-MARKDOWN-LINK> (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends, the target is <STATBLOCK-MARKDOWN-LINK>https://5e.tools/conditionsdiseases.html#frightened_phb|frightened<STATBLOCK-MARKDOWN-LINK>, and it takes 27 (6d8) psychic damage at the end of each of its turns. The sorrowsworn can grapple only one creature at a time.\n"
-          }
-        ],
-        "reactions": [
-          {
-            "name": "Tightening Embrace",
-            "desc": "If the sorrowsworn takes damage, the creature <STATBLOCK-MARKDOWN-LINK>https://5e.tools/conditionsdiseases.html#grappled_phb|grappled<STATBLOCK-MARKDOWN-LINK> by Embrace takes 18 (4d8) psychic damage."
-          }
-        ],
-        "source": "Homebrew",
-        "layout": "Basic 5e Layout"
-      }
-    ],
-    [
-      "Lonely Sorrowsworn",
-      {
-        "name": "Lonely Sorrowsworn",
-        "size": "Medium",
-        "type": "Monstrosity",
-        "alignment": "Neutral Evil",
-        "ac": "16 (natural armor)",
-        "hp": 112,
-        "speed": "30 ft.",
-        "stats": [
-          16,
-          12,
-          17,
-          6,
-          11,
-          6
-        ],
-        "damage_resistances": "bludgeoning, piercing, and slashing while in dim light or darkness",
-        "senses": "Darkvision 60 ft., Passive Perception 10",
-        "languages": "Common",
-        "cr": 9,
-        "traits": [
-          {
-            "name": "Psychic Leech",
-            "desc": "At the start of each of the sorrowsworn's turns, each creature within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take 10 (3d6) psychic damage."
-          },
-          {
-            "name": "Thrives on Company",
-            "desc": "The sorrowsworn has advantage on attack rolls while it is within 30 feet of at least two other creatures. It otherwise has disadvantage on attack rolls."
-          }
-        ],
-        "actions": [
-          {
-            "name": "Multiattack",
-            "desc": "The sorrowsworn makes one Harpoon Arm attack, and it uses Sorrowful Embrace."
-          },
-          {
-            "name": "Harpoon Arm",
-            "desc": "_Melee Weapon Attack:_ +7 to hit, reach 60 ft., one target. _Hit:_ 21 (4d8 + 3) piercing damage, and the target is <STATBLOCK-MARKDOWN-LINK>https://5e.tools/conditionsdiseases.html#grappled_phb|grappled<STATBLOCK-MARKDOWN-LINK> (escape DC 15) if it is a Large or smaller creature. The sorrowsworn has two harpoon arms and can grapple up to two creatures at once."
-          },
-          {
-            "name": "Sorrowful Embrace",
-            "desc": "Each creature <STATBLOCK-MARKDOWN-LINK>https://5e.tools/conditionsdiseases.html#grappled_phb|grappled<STATBLOCK-MARKDOWN-LINK> by the sorrowsworn must make a DC 15 Wisdom saving throw, taking 18 (4d8) psychic damage on a failed save, or half as much damage on a successful one. In either case, the sorrowsworn pulls each of those creatures up to 30 feet straight toward it."
-          }
-        ],
-        "source": "Homebrew",
-        "layout": "Basic 5e Layout"
-      }
-    ],
-    [
-      "Spiderdragon",
-      {
-        "name": "Spiderdragon",
-        "size": "Huge",
-        "type": "Monstrosity",
-        "alignment": "Chaotic Evil",
-        "ac": "17 (natural armor)",
-        "hp": 152,
-        "speed": "50 ft., Climn 60 ft.",
-        "stats": [
-          21,
-          18,
-          16,
-          7,
-          14,
-          18
-        ],
-        "skillsaves": [
-          {
-            "Intimidation": 8
-          },
-          {
-            "Perception": 6
-          }
-        ],
-        "damage_resistances": "Poison, Psychic",
-        "senses": "Darkvision 90 ft., Passive Perception 16",
-        "languages": "Abyssal, Draconic, Undercommon",
-        "cr": 11,
-        "traits": [
-          {
-            "name": "Magic Resistance",
-            "desc": "The spiderdragon has advantage on saving throws against spells and other magical effects."
-          },
-          {
-            "name": "Spider Climb",
-            "desc": "The spiderdragon can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
-          },
-          {
-            "name": "Web Walker",
-            "desc": "The spiderdragon ignores movement restrictions caused by webbing."
-          }
-        ],
-        "actions": [
-          {
-            "name": "Multiattack",
-            "desc": "The spiderdragon makes one Bite attack and two Claw attacks."
-          },
-          {
-            "name": "Bite",
-            "desc": "_Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 10 (1d10 + 5) piercing damage plus 13 (2d12) poison damage."
-          },
-          {
-            "name": "Claw",
-            "desc": "_Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage."
-          },
-          {
-            "name": "Spiderling Breath (Recharge 5–6)",
-            "desc": "The spiderdragon exhales venomous spiderlings in a 30-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 33 (6d10) piercing damage and 33 (6d10) poison damage on a failed save or half as much damage on a successful one."
-          }
-        ],
-        "bonus_actions": [
-          {
-            "name": "Stifling Webs (Recharge 5-6)",
-            "desc": "The spiderdragon spins a 30-foot cube of strong, sticky webbing in an area adjacent to itself. The webbing lasts for 1 minute, is difficult terrain, and lightly obscures its area. A creature that starts its turn in the webbing or enters the webbing for the first time on its turn must succeed on a DC 15 Dexterity saving throw or have the <STATBLOCK-MARKDOWN-LINK>https://5e.tools/conditionsdiseases.html#restrained_phb|restrained<STATBLOCK-MARKDOWN-LINK> condition while in the web. As an action, a creature can free itself or another creature from the web by succeeding on a DC 15 Strength check.\nA 5-foot cube of the web is destroyed if it takes at least 10 acid, fire, or slashing damage on a single turn.\n"
-          }
-        ],
-        "source": "Homebrew",
-        "layout": "Basic 5e Layout"
-      }
-    ],
-    [
-      "Yochlol",
-      {
-        "name": "Yochlol",
-        "size": "Medium",
-        "type": "Fiend (Demon, Shapechanger)",
-        "alignment": "Chaotic Evil",
-        "ac": "15 (natural armor)",
-        "hp": 136,
-        "speed": "30 ft., Climb 30 ft.",
-        "stats": [
-          15,
-          14,
-          18,
-          13,
-          15,
-          15
-        ],
-        "skillsaves": [
-          {
-            "Deception": 10
-          },
-          {
-            "Insight": 6
-          }
-        ],
-        "damage_resistances": "Cold, Fire, Lightning; bludgeoning, piercing, and slashing from nonmagical attacks",
-        "damage_immunities": "Poison; Poisoned",
-        "senses": "Darkvision 120 ft., Passive Perception 12",
-        "languages": "Abyssal, Elvish, Undercommon",
-        "cr": 10,
-        "traits": [
-          {
-            "name": "Shapechanger",
-            "desc": "The yochlol can use its action to polymorph into a form that resembles a female drow or giant spider, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
-          },
-          {
-            "name": "Innate Spellcasting",
-            "desc": "The yochlol's spellcasting ability is Charisma (spell save DC 14). The yochlol can innately cast the following spells, requiring no material components:\nAt will: <STATBLOCK-MARKDOWN-LINK>https://5e.tools/spells.html#detect%20thoughts_phb|detect thoughts<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>https://5e.tools/spells.html#web_phb|web<STATBLOCK-MARKDOWN-LINK>\n1/day: <STATBLOCK-MARKDOWN-LINK>https://5e.tools/spells.html#dominate%20person_phb|dominate person<STATBLOCK-MARKDOWN-LINK>\n"
-          },
-          {
-            "name": "Magic Resistance",
-            "desc": "The yochlol has advantage on saving throws against spells and other magical effects."
-          },
-          {
-            "name": "Spider Climb",
-            "desc": "The yochlol can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
-          },
-          {
-            "name": "Web Walker",
-            "desc": "The yochlol ignores movement restrictions caused by webbing."
-          }
-        ],
-        "actions": [
-          {
-            "name": "Multiattack",
-            "desc": "The yochlol makes two melee attacks."
-          },
-          {
-            "name": "Slam (Bite in Spider Form)",
-            "desc": "_Melee Weapon Attack:_ +6 to hit, reach 5 ft. (10 feet in demon form), one target. _Hit:_ 5 (1d6 + 2) bludgeoning (piercing in spider form) damage plus 21 (6d6) poison damage."
-          },
-          {
-            "name": "Mist Form",
-            "desc": "The yochlol transforms into toxic mist or reverts to its true form. Any equipment it is wearing or carrying is also transformed. It reverts to its true form if it dies.\nWhile in mist form, the yochlol is <STATBLOCK-MARKDOWN-LINK>https://5e.tools/conditionsdiseases.html#incapacitated_phb|incapacitated<STATBLOCK-MARKDOWN-LINK> and can't speak. It has a flying speed of 30 feet, can hover, and can pass through any space that isn't airtight. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to nonmagical damage.\nWhile in mist form, the yochlol can enter a creature's space and stop there. Each time that creature starts its turn with the yochlol in its space, the creature must succeed on a DC 14 Constitution saving throw or be <STATBLOCK-MARKDOWN-LINK>https://5e.tools/conditionsdiseases.html#poisoned_phb|poisoned<STATBLOCK-MARKDOWN-LINK> until the start of its next turn. While <STATBLOCK-MARKDOWN-LINK>https://5e.tools/conditionsdiseases.html#poisoned_phb|poisoned<STATBLOCK-MARKDOWN-LINK> in this way, the target is <STATBLOCK-MARKDOWN-LINK>https://5e.tools/conditionsdiseases.html#incapacitated_phb|incapacitated<STATBLOCK-MARKDOWN-LINK>.\n"
-          }
-        ],
-        "source": "Homebrew",
-        "layout": "Basic 5e Layout"
-      }
-    ],
-    [
       "|Sprocket (Emil)|",
       {
         "name": "|Sprocket (Emil)|",
+        "type": "Player",
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "|Feta Ostervik (Karine)|",
+      {
+        "name": "|Feta Ostervik (Karine)|",
+        "type": "Player",
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "|Trickery (Vera)|",
+      {
+        "name": "|Trickery (Vera)|",
+        "type": "Player",
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "|Trapic (Mikkel)|",
+      {
+        "name": "|Trapic (Mikkel)|",
         "type": "Player",
         "source": "Homebrew",
         "layout": "Basic 5e Layout"

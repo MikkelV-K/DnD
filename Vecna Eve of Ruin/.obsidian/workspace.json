@@ -4,11 +4,145 @@
     "type": "split",
     "children": [
       {
-        "id": "53accce67458aed2",
+        "id": "c4afd7cd23d46dba",
         "type": "tabs",
         "children": [
           {
-            "id": "bb105919b058bf7e",
+            "id": "26d874a2e164781d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic Items/Stone of Good Luck.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stone of Good Luck"
+            }
+          },
+          {
+            "id": "7ea0964eb18382c9",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": [
+                [
+                  {
+                    "name": "|Feta Ostervik (Karine)|",
+                    "type": "Player",
+                    "source": "Homebrew",
+                    "layout": "Basic 5e Layout"
+                  },
+                  1
+                ],
+                [
+                  {
+                    "name": "|Sprocket (Emil)|",
+                    "type": "Player",
+                    "source": "Homebrew",
+                    "layout": "Basic 5e Layout"
+                  },
+                  1
+                ],
+                [
+                  {
+                    "name": "|Trapic (Mikkel)|",
+                    "type": "Player",
+                    "source": "Homebrew",
+                    "layout": "Basic 5e Layout"
+                  },
+                  1
+                ],
+                [
+                  {
+                    "name": "|Trickery (Vera)|",
+                    "type": "Player",
+                    "source": "Homebrew",
+                    "layout": "Basic 5e Layout"
+                  },
+                  1
+                ],
+                [
+                  {
+                    "name": "Barlgura",
+                    "size": "Large",
+                    "type": "fiend(Demon)",
+                    "alignment": "chaotic evil",
+                    "ac": "15 (natural armor)",
+                    "hp": 68,
+                    "hit_dice": "8d10 + 24",
+                    "speed": "40 ft., climb 40 ft.",
+                    "stats": {
+                      "str": 18,
+                      "dex": 15,
+                      "con": 16,
+                      "int": 7,
+                      "wis": 14,
+                      "cha": 9
+                    },
+                    "saves": [
+                      {
+                        "dex": 5
+                      },
+                      {
+                        "con": 6
+                      }
+                    ],
+                    "skillsaves": [
+                      {
+                        "Perception": 5
+                      },
+                      {
+                        "Stealth": 5
+                      }
+                    ],
+                    "damage_resistances": "cold,fire, lightning",
+                    "damage_immuities": "poison",
+                    "condition_immunities": "poisoned",
+                    "senses": "blindsight 30 ft., darkvision 120 ft.",
+                    "languages": "Abyssal",
+                    "cr": 5,
+                    "traits": [
+                      {
+                        "name": "Innate Spellcasting",
+                        "desc": "The barlgura's spellcasting ability is Wisdom (spell save DC 13). The barlgura can innately cast the following spells, requiring no material components:\n1/day each: _<STATBLOCK-MARKDOWN-LINK>https://www.aidedd.org/dnd/sorts.php?vo=entangle|entangle<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>https://www.aidedd.org/dnd/sorts.php?vo=phantasmal-force|phantasmal force<STATBLOCK-MARKDOWN-LINK>_\n2/day each: _<STATBLOCK-MARKDOWN-LINK>https://www.aidedd.org/dnd/sorts.php?vo=disguise-self|disguise self<STATBLOCK-MARKDOWN-LINK>, <STATBLOCK-MARKDOWN-LINK>https://www.aidedd.org/dnd/sorts.php?vo=invisibility|invisibility<STATBLOCK-MARKDOWN-LINK>_ (self only)\n"
+                      },
+                      {
+                        "name": "Reckless",
+                        "desc": "At the start of its turn, the barlgura can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.\n"
+                      },
+                      {
+                        "name": "Running Leap",
+                        "desc": "The barlgura's long jump is up to 40 feet and its high jump is up to 20 feet when it has a running start."
+                      }
+                    ],
+                    "actions": [
+                      {
+                        "name": "Multiattack",
+                        "desc": "The barlgura makes three attacks: one with its bite and two with its fists.\n"
+                      },
+                      {
+                        "name": "Bite",
+                        "desc": "_Melee Weapon Attack_: +7 to hit, reach 5 ft., one target. _Hit_: 11 (2d6 + 4) piercing damage."
+                      },
+                      {
+                        "name": "Fist",
+                        "desc": "_Melee Weapon Attack_: +7 to hit, reach 5 ft., one target. _Hit_: 9 (1d10 + 4) bludgeoning damage."
+                      }
+                    ],
+                    "source": "Homebrew",
+                    "layout": "Basic 5e Layout"
+                  },
+                  2
+                ]
+              ],
+              "icon": "intiative-tracker-encounter-builder",
+              "title": "Encounter Builder"
+            }
+          },
+          {
+            "id": "cc19ec85e589c1df",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,21 +156,47 @@
             }
           },
           {
-            "id": "73dd508434e8bb9f",
+            "id": "aa6add1e5578d089",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bestiary/PCs/Sprocket (Emil).md",
+                "file": "Encounters/1771677582241 - Encounter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sprocket (Emil)"
+              "title": "1771677582241 - Encounter"
+            }
+          },
+          {
+            "id": "917d2b3849eaadeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bestiary/Monsters/Barlgura.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Barlgura"
+            }
+          },
+          {
+            "id": "23a054f40e39d457",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Locations/Evernight_-_Calder_Moore.webp"
+              },
+              "icon": "lucide-image",
+              "title": "Evernight_-_Calder_Moore"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -102,6 +262,7 @@
       {
         "id": "1c81b8efe3e6e60f",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "817ad550dfe42b75",
@@ -109,6 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +280,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Welcome"
             }
           },
           {
@@ -127,12 +289,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeons/Dolindar Tomb.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dolindar Tomb"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
@@ -151,7 +313,52 @@
             }
           },
           {
-            "id": "c939220c9ac3fb7e",
+            "id": "95a95e83391566e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Magic Items/Stone of Good Luck.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Stone of Good Luck"
+            }
+          },
+          {
+            "id": "e6624f0277b62c03",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "517bbf978beb017d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "0a32c77ae676cc4f",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "a690cd7be2ba3259",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -163,61 +370,35 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "95a95e83391566e1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Bestiary/PCs/Feta Ostervik.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Feta Ostervik"
-            }
-          },
-          {
-            "id": "99593edf5b8c0810",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "eb64ddb0e558fe39",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "94d2a1c69e7aa151",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
+      },
+      {
+        "id": "5f8d518a288c9212",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "3619290b1a3dab46",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 406
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -225,59 +406,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "73dd508434e8bb9f",
+  "active": "517bbf978beb017d",
   "lastOpenFiles": [
-    "Bestiary/PCs/Feta Ostervik (Karine.md",
-    "Bestiary/PCs/Sprocket (Emil).md",
+    "Dungeons/The Neverdeath Catacombs.md",
+    "Bestiary/Monsters/Barlgura.md",
+    "Encounters/1771687671360 - Encounter.md",
+    "Encounters/1771684696868 - Encounter.md",
+    "Encounters/1771677582241 - Encounter.md",
+    "Encounters/1771668539042 - Encounter.md",
+    "Quests/Save the Kidnapped Nobles.md",
+    "Magic Items/Stone of Good Luck.md",
+    "Encounters",
+    "NPCs/Shanzezim.md",
+    "Assets/NPCs/Ting.webp",
+    "NPCs/Umberto Noblin.md",
+    "NPCs/Sarcelle Malinosh.md",
+    "Locations/Neverdeath Graveyard.md",
+    "Assets/Locations/Hallix.webp",
+    "Locations/Neverwinter.md",
+    "NPCs/Dagult Neverember.md",
     "Bestiary/PCs/Trapic (Mikkel).md",
     "Bestiary/PCs/Trickery (Vera).md",
-    "Dungeons/The Neverdeath Catacombs.md",
-    "Quests/Save the Kidnapped Nobles.md",
-    "NPCs/Sarcelle Malinosh.md",
-    "Bestiary/Monsters/Barlgura.md",
-    "Locations/Neverdeath Graveyard.md",
-    "Quests/Escape Evernight.md",
-    "Locations/Neverwinter.md",
-    "Bestiary/Monsters/Yochlol.md",
-    "Bestiary/Monsters/Spiderdragon.md",
-    "Locations/Web's Edge.md",
-    "Templates/Statblock.md",
-    "Bestiary/Monsters/Nothic.md",
-    "Bestiary/Monsters/Water Weird.md",
-    "Assets/NPCs/Spiderdragon.avif",
-    "NPCs/Newmy.md",
-    "Locations/The Underdark.md",
-    "Locations/Sigil.md",
-    "Dungeons/The Sigil Sanctum.md",
-    "Templates/Dungeon.md",
+    "Bestiary/PCs/Feta Ostervik (Karine).md",
+    "Bestiary/PCs/Sprocket (Emil).md",
     "Dungeons/Dolindar Tomb.md",
+    "Templates/NPC.md",
+    "Templates/Statblock.md",
     "Templates/Location.md",
-    "Locations/Evernight.md",
+    "Templates/Dungeon.md",
+    "Templates",
     "Misc/Vecna's Link.md",
-    "Assets/NPCs/Kas the Betrayer.webp",
-    "Assets/NPCs/Mordenkainen_VEoR.webp",
+    "Misc/Crevice of Dusk.md",
+    "Misc",
     "Assets/NPCs/Tasha-5e.webp",
+    "Assets/NPCs/Spiderdragon.avif",
+    "Assets/NPCs/Mordenkainen_VEoR.webp",
+    "Assets/NPCs/Kas the Betrayer.webp",
     "Assets/NPCs/Alustriel_Silverhand.webp",
-    "Assets/Monsters/Kevetta_Dolindar-1.webp",
-    "Assets/Monsters/Lonely Sorrowsworn.webp",
     "Assets/Monsters/The lonely matriarch Kevetta Dolindar, monsterized as a sorrowsworn..url",
     "Assets/Monsters/Lost Sorrowsworn.webp",
-    "Misc",
-    "Templates",
-    "Assets/NPCs/Sangora_-_ZUZANNA_WUZYK.webp",
+    "Assets/Monsters/Lonely Sorrowsworn.webp",
+    "NPCs/Sangora.md",
     "Assets/NPCs/Newmy_ghost.png",
     "Assets/Maps",
-    "Untitled.base",
     "Dungeons",
+    "Untitled.base",
     "Bestiary/Monsters",
     "Assets/Monsters",
-    "Assets/Magic Items",
-    "Magic Items"
+    "Assets/Magic Items"
   ]
 }
