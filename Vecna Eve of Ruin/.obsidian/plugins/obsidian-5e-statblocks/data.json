@@ -352,6 +352,7 @@
       }
     ],
     [
+<<<<<<< HEAD
       "|Feta Ostervik|",
       {
         "name": "|Feta Ostervik|",
@@ -623,9 +624,38 @@
       }
     ],
     [
+=======
+>>>>>>> origin/main
       "|Sprocket (Emil)|",
       {
         "name": "|Sprocket (Emil)|",
+        "type": "Player",
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "|Feta Ostervik (Karine)|",
+      {
+        "name": "|Feta Ostervik (Karine)|",
+        "type": "Player",
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "|Trickery (Vera)|",
+      {
+        "name": "|Trickery (Vera)|",
+        "type": "Player",
+        "source": "Homebrew",
+        "layout": "Basic 5e Layout"
+      }
+    ],
+    [
+      "|Trapic (Mikkel)|",
+      {
+        "name": "|Trapic (Mikkel)|",
         "type": "Player",
         "source": "Homebrew",
         "layout": "Basic 5e Layout"

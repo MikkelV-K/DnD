@@ -1,4 +1,5 @@
 ![[neverdeath-graveyard.webp]]
+
 *Located in [[Neverdeath Graveyard]], encountered in [[Ch. 1]] quest [[Save the Kidnapped Nobles]]*
 
 ## General Features
