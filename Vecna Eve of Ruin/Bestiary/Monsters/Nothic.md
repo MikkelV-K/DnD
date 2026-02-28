@@ -4,7 +4,7 @@ name: Nothic
 size: Medium
 type: aberration
 alignment: neutral evil
-ac: 15 (natural armor)
+ac: 15
 hp: 45
 speed: 30 ft.
 

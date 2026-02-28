@@ -4,7 +4,7 @@ name: Lonely Sorrowsworn
 size: Medium
 type: Monstrosity
 alignment: Neutral Evil
-ac: 16 (natural armor)
+ac: 16
 hp: 112
 speed: 30 ft.
 stats: [ 16, 12, 17, 6, 11, 6]

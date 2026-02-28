@@ -4,7 +4,7 @@ name: Lost Sorrowsworn
 size: Medium
 type: Monstrosity
 alignment: Neutral Evil
-ac: 15(natural armor)
+ac: 15
 hp: 78
 speed: 30 ft. 
 stats: [ 17, 12, 15, 6, 7, 5]

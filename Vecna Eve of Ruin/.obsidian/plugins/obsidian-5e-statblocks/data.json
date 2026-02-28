@@ -250,7 +250,7 @@
         "size": "Medium",
         "type": "aberration",
         "alignment": "neutral evil",
-        "ac": "15 (natural armor)",
+        "ac": 15,
         "hp": 45,
         "speed": "30 ft.",
         "stats": {
@@ -385,7 +385,7 @@
         "size": "Medium",
         "type": "Monstrosity",
         "alignment": "Neutral Evil",
-        "ac": "15(natural armor)",
+        "ac": 15,
         "hp": 78,
         "speed": "30 ft.",
         "stats": [
@@ -436,7 +436,7 @@
         "size": "Medium",
         "type": "Monstrosity",
         "alignment": "Neutral Evil",
-        "ac": "16 (natural armor)",
+        "ac": 16,
         "hp": 112,
         "speed": "30 ft.",
         "stats": [
@@ -486,7 +486,7 @@
         "size": "Huge",
         "type": "Monstrosity",
         "alignment": "Chaotic Evil",
-        "ac": "17 (natural armor)",
+        "ac": 17,
         "hp": 152,
         "speed": "50 ft., Climn 60 ft.",
         "stats": [
@@ -558,7 +558,7 @@
         "size": "Medium",
         "type": "Fiend (Demon, Shapechanger)",
         "alignment": "Chaotic Evil",
-        "ac": "15 (natural armor)",
+        "ac": 15,
         "hp": 136,
         "speed": "30 ft., Climb 30 ft.",
         "stats": [

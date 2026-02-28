@@ -4,7 +4,7 @@ name: Spiderdragon
 size: Huge
 type: Monstrosity
 alignment: Chaotic Evil
-ac: 17 (natural armor)
+ac: 17 
 hp: 152
 speed: 50 ft., Climn 60 ft.
 stats: [ 21, 18, 16, 7, 14, 18]

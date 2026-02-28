@@ -4,7 +4,7 @@ name: Yochlol
 size: Medium
 type: Fiend (Demon, Shapechanger)
 alignment: Chaotic Evil
-ac: 15 (natural armor)
+ac: 15 
 hp: 136
 speed: 30 ft., Climb 30 ft.
 stats: [ 15, 14, 18, 13, 15, 15]

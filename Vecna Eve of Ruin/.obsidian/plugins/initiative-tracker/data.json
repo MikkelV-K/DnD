@@ -111,17 +111,17 @@
   "state": {
     "creatures": [
       {
-        "name": "Yochlol",
-        "initiative": 19,
+        "name": "Lost Sorrowsworn",
+        "initiative": 4,
         "static": false,
-        "modifier": 2,
-        "hp": 136,
-        "currentMaxHP": 136,
-        "cr": 10,
-        "ac": "15 (natural armor)",
-        "currentAC": "15 (natural armor)",
-        "id": "ID_b9abd8daeaca",
-        "currentHP": 136,
+        "modifier": 1,
+        "hp": 78,
+        "currentMaxHP": 78,
+        "cr": 7,
+        "ac": "15(natural armor)",
+        "currentAC": "15(natural armor)",
+        "id": "ID_78dbdaf88b1b",
+        "currentHP": 78,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -242,7 +242,8 @@
             "celestial",
             "swarm of tiny beasts",
             "fiend(demon)",
-            "player"
+            "player",
+            "fiend (demon, shapechanger)"
           ],
           "id": "ID_DEFAULT_TYPE_FILTER",
           "derive": true
